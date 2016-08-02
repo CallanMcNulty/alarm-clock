@@ -1,0 +1,10 @@
+.alarm-on {
+  background-color: red;
+}
+
+#disable {
+  display: none;
+}
+#snooze {
+  display: none;
+}
